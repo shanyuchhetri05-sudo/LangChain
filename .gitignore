@@ -1,3 +1,4 @@
 *.env
 *venv
 *COI_NOTES
+retrivers/chroma_db
